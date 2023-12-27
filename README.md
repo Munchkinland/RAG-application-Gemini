@@ -115,3 +115,7 @@ If you would like to contribute to the project, follow these steps:
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+## DEMO
+
+https://huggingface.co/spaces/Aiaxis/RAG-application-Gemini?_sm_vck=9rTZZ0pfpVM6JttRS7SQfkH17HN1qPMH10QjQ5MHsqSZ0SHPjq1J
